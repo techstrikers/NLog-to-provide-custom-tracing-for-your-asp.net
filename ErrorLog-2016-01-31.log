@@ -1,0 +1,3 @@
+2016-01-31 16:05:54.1721|ERROR|_Default|Error message: Attempted to divide by zero. Stack Trace:    at _Default.Page_Load(Object sender, EventArgs e) in c:\development\NLogExample\Default.aspx.cs:line 16
+2016-01-31 16:08:19.3554|ERROR|_Default|Error message: Attempted to divide by zero. Stack Trace:    at _Default.Page_Load(Object sender, EventArgs e) in c:\development\NLogExample\Default.aspx.cs:line 16
+2016-01-31 16:08:45.0999|ERROR|_Default|Error message: Attempted to divide by zero. Stack Trace:    at _Default.Page_Load(Object sender, EventArgs e) in c:\development\NLogExample\Default.aspx.cs:line 16
