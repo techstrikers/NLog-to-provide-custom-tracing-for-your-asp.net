@@ -1,0 +1,2 @@
+# NLog-to-provide-custom-tracing-for-your-asp.net
+In this article I am going to discuss about NLog, NLog is a free logging platform for .NET or .NET library, which enables you to add sophisticated tracing code to your application. NLog makes developer's life easy to produce and write high-quality logs for your application regardless of its size or complexity and much, much more. In this article I will explain ASP.NET example using NLog.  http://www.techstrikers.com/Articles/nlog-to-provide-custom-tracing-for-your-asp.net.php
